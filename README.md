@@ -1,5 +1,7 @@
 **Sales Predictions**
 
+The purpose for this project is to predict for food items sold at various stores and to show the types of products and factors that important in projecting and increasing sales.
+
 Item Type Counts
 
 ![alt_text](https://i.imgur.com/3daDTYc.png)
